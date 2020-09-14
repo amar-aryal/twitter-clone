@@ -1,2 +1,2 @@
 myvenv/
-backend/twitter_like_app/twitter_like_app/settings.py/
+backend/twitter_like_app/twitter_like_app/secrets.py
